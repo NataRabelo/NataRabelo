@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor júnior finalizando a faculdade, focado em construir aplicações reais para mercado e uso próprio.
+Engenheiro de software - Desenvolvedor full Stack, focado em construir aplicações reais para mercado e uso próprio.
 
 Tenho forte interesse em:
 
